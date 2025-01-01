@@ -1,0 +1,4 @@
+/out
+/kernel/tools/Image.gz
+/code/kernel/tools/*.img
+/kernel/drivers/hisi/tzdriver/*.pyc
