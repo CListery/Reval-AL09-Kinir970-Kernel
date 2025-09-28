@@ -8,3 +8,14 @@ USE zImage NOTE:
 
 This kernel package is released for the phone software version 2020-01-17
 
+---
+
+内核发布包版本说明
+
+使用 zImage 注意事项：
+
+1. 此包仅生成 zImage，您需要获取 ramdisk 并添加内核命令行参数以生成完整的 boot.img，然后才能替换手机上的启动镜像。
+2. 如果您的手机已启用安全启动（secboot）功能，请先解密或解锁该功能。
+3. 请确保您的手机软件版本与此发布包一致，如不一致，请先下载匹配的版本。
+
+此内核包针对手机软件版本 2020-01-17 发布

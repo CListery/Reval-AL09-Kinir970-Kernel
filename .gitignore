@@ -2,3 +2,5 @@
 /kernel/tools/Image.gz
 /code/kernel/tools/*.img
 /kernel/drivers/hisi/tzdriver/*.pyc
+kernel/scripts/basic/fixdep
+kernel/scripts/basic/.fixdep.cmd
